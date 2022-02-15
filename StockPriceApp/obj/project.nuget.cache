@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfaoWZnVVc2S/Z6KaGf36fzUnNNN4C6hxgEWJd+UGSjS7qQPLfy1x+ypNmwIdNC8dg2cRtnzwiPiEAjj9Wv7Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\JALASOFT\\DotNet\\GStarted\\StockPriceApp\\StockPriceApp\\StockPriceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\bin\Debug\net6.0\StockPriceApp.exe
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\bin\Debug\net6.0\StockPriceApp.deps.json
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\bin\Debug\net6.0\StockPriceApp.runtimeconfig.json
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\bin\Debug\net6.0\StockPriceApp.dll
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\bin\Debug\net6.0\ref\StockPriceApp.dll
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\bin\Debug\net6.0\StockPriceApp.pdb
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.AssemblyInfo.cs
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.dll
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\ref\StockPriceApp.dll
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.pdb
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.genruntimeconfig.cache
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\JALASOFT\DotNet\GStarted\StockPriceApp\StockPriceApp\obj\Debug\net6.0\StockPriceApp.csproj.CopyComplete
